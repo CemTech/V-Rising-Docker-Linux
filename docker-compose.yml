@@ -7,7 +7,7 @@ services:
     volumes:
       - /app/V-Rising-Docker-Linux/data:/data
     ports:
-      - 37015:27015
-      - 37016:27016
+      - 37015:27015/udp
+      - 37016:27016/udp
     restart: unless-stopped
     tty: true
