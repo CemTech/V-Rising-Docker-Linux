@@ -1,8 +1,8 @@
 ﻿{
   "Name": "CemTech",
   "Description": "PVE Server",
-  "Port": 37015,
-  "QueryPort": 37016,
+  "Port": 27015,
+  "QueryPort": 27016,
   "MaxConnectedUsers": 40,
   "MaxConnectedAdmins": 4,
   "ServerFps": 30,
