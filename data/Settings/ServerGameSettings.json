@@ -3,6 +3,7 @@
   "CastleDamageMode": 0,
   "CastleHeartDamageMode": 0,
   "DeathContainerPermission": 1,
+  "ClanSize": 10,
   "RelicSpawnType": 1,
   "CanLootEnemyContainers": false,
   "TeleportBoundItems": false,
