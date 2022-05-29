@@ -5,7 +5,7 @@ services:
     image: bjg96/vrising-server:latest
     container_name: vrising-server
     volumes:
-      - /data/opt/vrising:/data
+      - /app/V-Rising-Docker-Linux:/data
     ports:
       - 27015:27015/udp
       - 27016:27016/udp
