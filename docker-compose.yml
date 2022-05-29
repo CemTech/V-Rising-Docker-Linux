@@ -8,6 +8,6 @@ services:
       - /app/V-Rising-Docker-Linux/data:/data
     ports:
       - 27015:27015
-      - 27015:27015
+      - 27016:27016
     restart: unless-stopped
     tty: true
