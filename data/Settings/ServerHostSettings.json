@@ -8,7 +8,7 @@
   "ServerFps": 30,
   "SaveName": "kaamelott",
   "Password": "SVRPASSWD-HERE",
-  "Secure": true,
+  "Secure": false,
   "ListOnMasterServer": true,
   "AutoSaveCount": 50,
   "AutoSaveInterval": 300,
